@@ -9,7 +9,8 @@ body {
 
 .steps {
   width: 600px;
-  background-color: #96988f;
+  background-color: #d4d4d4;
+  color: #000000;
   border-radius: 7px;
   padding: 25px 100px;
   margin: 100px auto;
